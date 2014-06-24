@@ -1,0 +1,26 @@
+{
+  "name": "modernizriOS",
+  "version": "0.0.1",
+  "description": "Modernizr tests for iOS devices.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UseAllFive/modernizriOS.git"
+  },
+  "author": "Bret Morris <bret@useallfive.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UseAllFive/modernizriOS/issues"
+  },
+  "homepage": "https://github.com/UseAllFive/modernizriOS",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jscs-checker": "^0.6.0",
+    "jshint": "^2.5.1",
+    "matchdep": "^0.3.0"
+  }
+}
